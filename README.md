@@ -1,6 +1,6 @@
 # medical-store
 
-Technology used: .Net(Visual Studio 2015)
+Technology used: .Net(Visual Studio 2015),C#
 Database       : MySQL Workbench
 Description    : College Project:
                  This standalone application calcuates the amount of total quantity of medicines and 
